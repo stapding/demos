@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\editproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\editproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|c:\\users\\administrator\\source\\repos\\wpffinaldemo\\wpffinaldemo\\models\\demodemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0484B7D-B98F-4198-82D2-52982D90C338}|WpfFinalDemo\\WpfFinalDemo.csproj|solutionrelative:wpffinaldemo\\models\\demodemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\EditProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\EditProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\EditProductPage.xaml.cs",
+              "RelativeToolTip": "WpfFinalDemo\\EditProductPage.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:43:00.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\EditProductPage.xaml",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\EditProductPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\EditProductPage.xaml",
+              "RelativeToolTip": "WpfFinalDemo\\EditProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T12:41:36.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "WpfFinalDemo\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:26:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\AddProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\AddProductPage.xaml.cs",
+              "RelativeToolTip": "WpfFinalDemo\\AddProductPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:11:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\AddProductPage.xaml",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\AddProductPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\AddProductPage.xaml",
+              "RelativeToolTip": "WpfFinalDemo\\AddProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T12:04:54.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\Product.cs",
+              "RelativeToolTip": "WpfFinalDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:41:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "WpfFinalDemo\\ProductsPage.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:27:52.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Session.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\Session.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Session.cs",
+              "RelativeToolTip": "WpfFinalDemo\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:27:17.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\ProductsPage.xaml",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\ProductsPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\ProductsPage.xaml*",
+              "RelativeToolTip": "WpfFinalDemo\\ProductsPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T11:22:38.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\DataClass.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\DataClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\DataClass.cs",
+              "RelativeToolTip": "WpfFinalDemo\\DataClass.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA0wD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:19:42.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WpfFinalDemo\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvycAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:19:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\LoginPage.xaml",
+              "RelativeToolTip": "WpfFinalDemo\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T11:16:46.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\App.xaml",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\App.xaml",
+              "RelativeToolTip": "WpfFinalDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T11:06:20.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\Category.cs",
+              "RelativeToolTip": "WpfFinalDemo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:05:38.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DemodemodbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\DemodemodbContext.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\Models\\DemodemodbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\Models\\DemodemodbContext.cs",
+              "RelativeToolTip": "WpfFinalDemo\\Models\\DemodemodbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:05:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\MainWindow.xaml",
+              "RelativeToolTip": "WpfFinalDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T11:00:11.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfFinalDemo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfFinalDemo\\WpfFinalDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfFinalDemo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:00:02.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

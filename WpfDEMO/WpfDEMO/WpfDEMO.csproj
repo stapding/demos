@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\C346F5.jpg" />
+    <None Remove="Resources\D325D4.jpg" />
+    <None Remove="Resources\F256G6.jpg" />
+    <None Remove="Resources\F325D4.jpg" />
+    <None Remove="Resources\G432G6.jpg" />
+    <None Remove="Resources\G843H5.jpg" />
+    <None Remove="Resources\H542F5.jpg" />
+    <None Remove="Resources\icon.ico" />
+    <None Remove="Resources\J532V5.jpg" />
+    <None Remove="Resources\logo.png" />
+    <None Remove="Resources\picture.png" />
+    <None Remove="Resources\S432T5.jpg" />
+    <None Remove="Resources\А112Т4.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\C346F5.jpg" />
+    <Resource Include="Resources\D325D4.jpg" />
+    <Resource Include="Resources\F256G6.jpg" />
+    <Resource Include="Resources\F325D4.jpg" />
+    <Resource Include="Resources\G432G6.jpg" />
+    <Resource Include="Resources\G843H5.jpg" />
+    <Resource Include="Resources\H542F5.jpg" />
+    <Resource Include="Resources\icon.ico" />
+    <Resource Include="Resources\J532V5.jpg" />
+    <Resource Include="Resources\logo.png" />
+    <Resource Include="Resources\picture.png" />
+    <Resource Include="Resources\S432T5.jpg" />
+    <Resource Include="Resources\А112Т4.jpg" />
+  </ItemGroup>
+
+</Project>
