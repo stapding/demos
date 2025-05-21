@@ -1,0 +1,37 @@
+﻿<Page x:Class="demodemo.EditAgentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:demodemo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EditAgentPage">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock FontSize="30">Изменение агента</TextBlock>
+            <Label>Тип агента</Label>
+            <ComboBox x:Name="typeCB"></ComboBox>
+            <Label>Имя</Label>
+            <TextBox x:Name="nameTB"></TextBox>
+            <Label>Электронная почта</Label>
+            <TextBox x:Name="emailTB"></TextBox>
+            <Label>Телефон</Label>
+            <TextBox x:Name="phoneTB"></TextBox>
+            <Label>Логотип</Label>
+            <TextBox x:Name="logoTB"></TextBox>
+            <Label>Адресс</Label>
+            <ComboBox x:Name="addressCB"></ComboBox>
+            <Label>Приоритет</Label>
+            <TextBox x:Name="priorityTB"></TextBox>
+            <Label>Директор</Label>
+            <ComboBox x:Name="directorCB"></ComboBox>
+            <Label>ИНН</Label>
+            <TextBox x:Name="innTB"></TextBox>
+            <Label>КПП</Label>
+            <TextBox x:Name="kppTB"></TextBox>
+            <Button x:Name="editButton" Width="70" Height="20" Content="Изменить" Margin="0,10,0,0" Click="editButton_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Page>
